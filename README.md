@@ -1,6 +1,10 @@
 # FLIPMART-SALES-DASHBOARD
 Developed an interactive Power BI dashboard to visualize sales, profit, and customer trends. Included dynamic filters for shipping modes, segments, and regions.
 # FlipMart Sales Dashboard
+## DASHBOAED VIEW 
+![Screenshot 2024-12-06 114427](https://github.com/user-attachments/assets/10ac1800-f608-4964-a9d1-993faa0ed074) 
+
+
 
 ## Overview
 This project involves the creation of an interactive sales dashboard for FlipMart using Power BI. The dashboard provides actionable insights into key sales metrics, customer segments, and shipping trends.

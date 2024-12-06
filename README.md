@@ -21,8 +21,6 @@ This project involves the creation of an interactive sales dashboard for FlipMar
 ## Outcome
 The dashboard enables FlipMart to make data-driven decisions by identifying top-performing categories, regions, and trends, thereby improving operational efficiency and strategic planning.
 
-## Screenshots
-![FlipMart Sales Dashboard](./path/to/image.png)
 
 ## How to Use
 1. Clone the repository.
